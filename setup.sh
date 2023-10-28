@@ -78,7 +78,7 @@ clear
 publickey=$(cat /root/dnstt/dnstt-server/server.pub)
 echo "======================"
 echo "Public Key = $publickey"
-echo "Nameserver = $ns"
+echo "Nameserver = $nameserver"
 echo "======================"
 echo "Login Credentials"
 echo "Username:aku"
